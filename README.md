@@ -1,0 +1,35 @@
+# Suchmos – YMM
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:22.15] 触れてみたい 嗅いでみたい
+[00:27.10] 君の空気 and heart is make high time
+[00:32.32] 身体の芯まで 燃やしてみたい
+[00:37.88] 時が止まって Be stoned It's so cool
+[00:41.93] Everything is green 風を掴める
+[00:47.29] もっと高い所にいたい
+[00:51.75] Silverのかおり 頭が冴える
+[00:57.63] 鮮やかな色で塗り潰す
+[01:02.08] 塗り潰す 塗り潰す
+[01:06.58] 
+[01:09.77] I'm so cool He's so cool She's so cool
+[01:15.55] We cool And you?
+[01:19.76] I'm so cool He's so cool She's so cool
+[01:25.66] We cool And you?
+[01:33.66] 
+[01:50.86] 赤い光の 溢れる部屋で
+[01:55.66] Happy brothers get together with M.R.
+[02:00.32] Grindしたら 心たかぶる
+[02:05.10] Please Let me stand next your fire, Jimi
+[02:09.63] 吐息が響く 目線を交わす
+[02:15.76] こぼれるSmile A-ha-ha-ha
+[02:19.94] いつも以上に 繋がり合える
+[02:25.28] Oh, Let me go great kingdom throne
+[02:30.14] Kingdom throne, kingdom throne
+[02:45.14] 
+[02:38.32] I'm so cool He's so cool She's so cool
+[02:43.94] We cool And you?
+[02:48.00] I'm so cool He's so cool She's so cool
+[02:53.49] We cool And you?
+```
